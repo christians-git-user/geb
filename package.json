@@ -1,0 +1,11 @@
+{
+  "name": "geb",
+  "version": "1.0.0",
+  "description": "Reading and thinking about GEB through JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "christian steckler",
+  "license": "ISC"
+}
